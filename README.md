@@ -8,9 +8,7 @@ This is a simple Python program that calculates the **Body Mass Index (BMI)** ba
 
 - **Weight Input**: Accepts weight in kilograms (kg) or pounds (lb).
 - **Height Input**: Accepts height in centimeters (cm) or inches (in).
-- **BMI Calculation**: Computes the BMI using the formula:
-  \[
-  \text{BMI} = \frac{\text{weight (kg)}}{\text{height (m)}^2}
+- **BMI Calculation**: Computes the BMI using the formula: BMI = weight (kg)/height (m)^2
   \]
 - **BMI Interpretation**: Provides a basic interpretation of the BMI result (underweight, normal weight, overweight, or obese).
 
