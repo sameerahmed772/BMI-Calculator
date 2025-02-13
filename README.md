@@ -89,7 +89,3 @@ Contributions are welcome! If you'd like to improve this project, feel free to o
 ---
 
 Enjoy using the **Basic Weight and Height Calculator**! If you have any questions or feedback, feel free to reach out.
-
----
-
-You can save this content in a file named `README.md` in the same directory as your Python script. This will help users understand and use your program effectively.
