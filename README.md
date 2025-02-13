@@ -1,7 +1,3 @@
-Here’s a `README.md` file for your **Basic Weight and Height Calculator** program. This file provides an overview of the project, how to use it, and other relevant details.
-
----
-
 # Basic Weight and Height Calculator
 
 This is a simple Python program that calculates the **Body Mass Index (BMI)** based on user inputs for weight and height. It supports different units for weight (kilograms or pounds) and height (inches or centimeters).
